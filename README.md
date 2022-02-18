@@ -1,2 +1,2 @@
-# thecommunityplaza
+# thelocalplaza
 Testing out SvelteKit
